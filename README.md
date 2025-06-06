@@ -10,7 +10,7 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 ---
 
 ## 🗂 Dataset Overview
-- **Source**: Hospital emergency room data (2024)
+- **Source**: [Hospital emergency room data (2024)](https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Dataset.csv)
 - **Fields**: Admission date, department, gender, age, satisfaction score, wait time, and referral information
 
 ---
@@ -25,6 +25,7 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 - How many patients are admitted versus treated and released?
 - What operational insights can improve service delivery and reduce bottlenecks?
 - Are there disparities in outcomes or experiences based on patient demographics?
+- Dashboard Interaction [View Dashboard](https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
 ---
 
 ## 🛠 Process Overview
