@@ -1,7 +1,7 @@
 # 🏥 Hospital ER Data Dashboard (Power BI)
 
 <p align="center">
-  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=ff9aae&height=200&section=header&text=Emergency%20Room%20Insights%20%7C%20Power%20BI%20Dashboard&fontSize=30&fontAlign=50&fontAlignY=30&desc=Turning%20Patient%20Data%20into%20Hospital%20Decisions&descAlign=50&descAlignY=50&animation=fadeIn">
+  <img width="1000" src="https://capsule-render.vercel.app/api?type=waving&color=b7f5f0&height=200&section=header&text=Emergency%20Room%20Insights%20%7C%20Power%20BI%20Dashboard&fontSize=30&fontAlign=50&fontAlignY=30&desc=Turning%20Patient%20Data%20into%20Hospital%20Decisions&descAlign=50&descAlignY=50&animation=fadeIn">
 </p>
 
 ## 🎯 Project Objective
@@ -36,14 +36,13 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 ---
 
 ## 📊 Dashboard Highlights
-<p align="center">
-  <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard%20(Monthly%20View).png" width="750]
-<p align="center">
-  <img src="./06828b62-1fdb-4f96-972c-9a39a5370069.png" width="750"/>
-</p>
-<p align="center">
-  <img src="./e0012d70-5965-4a22-b64e-9457ca51cd93.png" width="750"/>
-</p>
+<div align="center">
+  <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard%20(Monthly%20View).png" width="750" style="margin-bottom: 20px;"/>
+  <br><br>
+  <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard%20(Consolidated%20View).png" width="750" style="margin-bottom: 20px;"/>
+  <br><br>
+  <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Patient%20Details.png" width="750"/>
+</div>
 
 ---
 
