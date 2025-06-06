@@ -37,8 +37,7 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 
 ## 📊 Dashboard Highlights
 <p align="center">
-  <img src="./a4bf8a8e-ae23-463d-892a-c122661e1ba7.png" width="750"/>
-</p>
+  <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard%20(Monthly%20View).png" width="750]
 <p align="center">
   <img src="./06828b62-1fdb-4f96-972c-9a39a5370069.png" width="750"/>
 </p>
