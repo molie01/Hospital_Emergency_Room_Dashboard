@@ -37,7 +37,10 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 
 ---
 
-## 📊 <a id="dashboard">Dashboard Highlights</a>
+## 📊 <a id="dashboard">Dashboard Preview</a>
+
+[🔗 Download Power BI Dashboard (.pbix)](https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
+
 <div align="center">
   <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard%20(Monthly%20View).png" width="750" style="margin-bottom: 20px;"/>
   <br><br>
@@ -59,7 +62,7 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 
 ---
 
-## 📌 Final Thoughts
+## 📌 Final Conclusion
 This dashboard provides hospital leaders with real-time insight into ER operations and patient demographics. It enables data-backed decisions for resource planning, staffing, and improving patient outcomes.
 
 ---
