@@ -25,7 +25,8 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 - How many patients are admitted versus treated and released?
 - What operational insights can improve service delivery and reduce bottlenecks?
 - Are there disparities in outcomes or experiences based on patient demographics?
-- Dashboard Interaction [View Dashboard](https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.pbix)
+- Dashboard Interaction [View Dashboard](#dashboard)
+
 ---
 
 ## 🛠 Process Overview
@@ -36,7 +37,7 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 
 ---
 
-## 📊 Dashboard Highlights
+## 📊 <a id="dashboard">Dashboard Highlights</a>
 <div align="center">
   <img src="https://github.com/molie01/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard%20(Monthly%20View).png" width="750" style="margin-bottom: 20px;"/>
   <br><br>
