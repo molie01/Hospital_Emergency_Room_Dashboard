@@ -15,7 +15,7 @@ Deliver a clear, insight-driven Power BI dashboard to help hospital management a
 
 ---
 
-## 📌 Key Questions Answered
+## ❓ Key Questions Answered
 - What is the average patient wait time, and how does it impact satisfaction?
 - Which departments receive the most referrals, and where can resource planning be optimized?
 - What days and hours are peak periods in the ER, and how should staffing align?
